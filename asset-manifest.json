@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Mudit-Pokhriyal/helloreact/static/css/main.b100e6da.chunk.css",
+    "main.js": "/Mudit-Pokhriyal/helloreact/static/js/main.781d6d2e.chunk.js",
+    "main.js.map": "/Mudit-Pokhriyal/helloreact/static/js/main.781d6d2e.chunk.js.map",
+    "runtime-main.js": "/Mudit-Pokhriyal/helloreact/static/js/runtime-main.b6da2e34.js",
+    "runtime-main.js.map": "/Mudit-Pokhriyal/helloreact/static/js/runtime-main.b6da2e34.js.map",
+    "static/js/2.4f33da63.chunk.js": "/Mudit-Pokhriyal/helloreact/static/js/2.4f33da63.chunk.js",
+    "static/js/2.4f33da63.chunk.js.map": "/Mudit-Pokhriyal/helloreact/static/js/2.4f33da63.chunk.js.map",
+    "index.html": "/Mudit-Pokhriyal/helloreact/index.html",
+    "precache-manifest.7e76defb614ddaa0dacf49ed7c4931f3.js": "/Mudit-Pokhriyal/helloreact/precache-manifest.7e76defb614ddaa0dacf49ed7c4931f3.js",
+    "service-worker.js": "/Mudit-Pokhriyal/helloreact/service-worker.js",
+    "static/css/main.b100e6da.chunk.css.map": "/Mudit-Pokhriyal/helloreact/static/css/main.b100e6da.chunk.css.map",
+    "static/media/logo.svg": "/Mudit-Pokhriyal/helloreact/static/media/logo.25bf045c.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b6da2e34.js",
+    "static/js/2.4f33da63.chunk.js",
+    "static/css/main.b100e6da.chunk.css",
+    "static/js/main.781d6d2e.chunk.js"
+  ]
+}
